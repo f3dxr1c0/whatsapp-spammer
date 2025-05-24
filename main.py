@@ -27,4 +27,4 @@ if choice == '1':
     pg.write(msg)
     pg.press('enter')
 else:
- print('INVALID INPUT')
+ print(Fore.RED + 'INVALID INPUT' + Fore.RESET)
