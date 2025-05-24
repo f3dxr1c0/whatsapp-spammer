@@ -10,7 +10,7 @@ print(Fore.GREEN + '''
 ▐█▌██▐█▌██▌▐▀▐█ ▪▐▌ ▐█▌·▐█▄▪▐█▐█ ▪▐▌▐█▪·•▐█▪·•    ▐█▄▪▐█▐█▪·•▐█ ▪▐▌██ ██▌▐█▌██ ██▌▐█▌▐█▄▄▌▐█•█▌
  ▀▀▀▀ ▀▪▀▀▀ · ▀  ▀  ▀▀▀  ▀▀▀▀  ▀  ▀ .▀   .▀        ▀▀▀▀ .▀    ▀  ▀ ▀▀  █▪▀▀▀▀▀  █▪▀▀▀ ▀▀▀ .▀  ▀
                                                                                                                                                                                                                                                                           
-          [1] START (for spam press enter after 10 seconds)                                                                                                                          ''' + Fore.RESET)
+          [1] START (for spam press enter after 10 seconds)                   ''' + Fore.RESET)
 
 choice = input()
 
